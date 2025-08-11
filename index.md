@@ -1,19 +1,16 @@
 ---
 layout: homepage
 ---
+## Ciao 👋  
+Filippo here :)
 
 ## About Me
 
-I am a Ph.D. student at ...
+Born and raised in Italy 🇮🇹, I’m a driven Computer Engineering student with a deep passion for technology, artificial intelligence, and space exploration 🚀.
 
-## Research Interests
+💻 **Skills**  
+Proficient in Python, Java, and C, with a strong foundation in software development, algorithms, and problem-solving. I am driven by the belief that technology should not only solve problems but also enrich lives, spark innovation, and redefine what’s possible.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Project  
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Coming soon
